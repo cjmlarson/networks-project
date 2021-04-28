@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6229f50c-0366-41b3-9f07-d0867617d096" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TexPow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TexPow2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/networks-project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/networks-project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/TestCase-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/TestCase-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/TestCase.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testlinks.csv" beforeDir="false" afterPath="$PROJECT_DIR$/testlinks.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testloads.csv" beforeDir="false" afterPath="$PROJECT_DIR$/testloads.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testnodes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/testnodes.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TexPow.py" beforeDir="false" afterPath="$PROJECT_DIR$/TexPow.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +30,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1rl5LHWAsu3EEJFpUQKEVs1Mal3" />
   <component name="ProjectViewState">
@@ -126,7 +126,7 @@
       <workItem from="1619551931363" duration="1334000" />
       <workItem from="1619555659076" duration="6609000" />
       <workItem from="1619577650130" duration="1416000" />
-      <workItem from="1619637784809" duration="1309000" />
+      <workItem from="1619637784809" duration="6878000" />
     </task>
     <servers />
   </component>
@@ -145,7 +145,17 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TexPow.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/networks_project$TexPow.coverage" NAME="TexPow Coverage Results" MODIFIED="1619638780347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/networks_project$TexPow.coverage" NAME="TexPow Coverage Results" MODIFIED="1619644543542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
